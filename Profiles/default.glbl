@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.accessdata.fda.gov/scripts/cder/ob/index.cfm'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Otsuka Pharma'</initValue>
+      <name>company</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'org.postgresql.Driver'</initValue>
+      <name>postgre_sql_class</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jdbc:postgresql://localhost:5432/Us_Food_Drug_Orange_Book'</initValue>
+      <name>db_url_us_orange_book</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'postgres'</initValue>
+      <name>db_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'pgsroot'</initValue>
+      <name>db_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'VARCHAR(255)'</initValue>
+      <name>varchar</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'INT'</initValue>
+      <name>int_eger</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\24080102\\Downloads\\'</initValue>
+      <name>download_path</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'//*[@id=\'example_info\' and text()=\'No records available\']'</initValue>
+      <name>no_records_Xpath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jdbc:postgresql://localhost:5432/katalon_sql_demo'</initValue>
+      <name>db_url_katalon_sql_demo</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Select None of the category via checkbox slection (Category = RX, OTC OR DISCN)&#xd;
+- Close The Browser as No Records.</description>
+   <name>None_Operation_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c542ad34-f041-4022-b3b0-f8f5c4beab78</testCaseGuid>
+</TestCaseEntity>

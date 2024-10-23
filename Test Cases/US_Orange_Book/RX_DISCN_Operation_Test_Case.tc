@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Select Only RX And DISCN of the category via checkbox slection (Category = RX, OTC OR DISCN)&#xd;
+- Download CSV >> Rename regarding searched Company and Checkbox Selection >> Delete IF already Exists with Same Name&#xd;
+- Store Data into Database&#xd;
+- Print Database Table Data into Console</description>
+   <name>RX_DISCN_Operation_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f0acb46-2ce5-4cb5-b8cc-9aa202341ad6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Companies</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>85ddaa8d-0a87-4f38-97a8-09e28287fc9a</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://localhost:5432/Us_Food_Drug_Orange_Book</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>cGdzcm9vdA==</password>
+   <query>SELECT * FROM public.&quot;Data_Files_Companies&quot;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

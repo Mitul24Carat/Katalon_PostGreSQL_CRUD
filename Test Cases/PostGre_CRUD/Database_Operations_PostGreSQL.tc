@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>All CRUD (Create, Read, Update, Delete) Database Operations.</description>
+   <name>Database_Operations_PostGreSQL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad28907b-5984-4c1c-8ef3-5614756f6895</testCaseGuid>
+</TestCaseEntity>

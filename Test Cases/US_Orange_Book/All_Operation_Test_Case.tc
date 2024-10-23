@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Select All of the category via checkbox slection (Category = RX, OTC OR DISCN)&#xd;
+- Download CSV >> Rename regarding searched Company and Checkbox Selection >> Delete IF already Exists with Same Name&#xd;
+- Store Data into Database&#xd;
+- Print Database Table Data into Console</description>
+   <name>All_Operation_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54f17826-cfd9-4d36-a30f-c409423c98b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bf03e31-0c04-463a-91c8-a7d465b3b464</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2bf03e31-0c04-463a-91c8-a7d465b3b464</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+</TestCaseEntity>
