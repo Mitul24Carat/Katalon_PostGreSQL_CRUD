@@ -96,6 +96,10 @@ public class CRUD_Operations_PostGre_DB {
 
 	def getConnectedToDB() {
 
+		/*
+		 * Get Connection TO PostGre SQL
+		 */
+
 		Class.forName(GlobalVariable.postgre_sql_class)
 		con = DriverManager.getConnection(GlobalVariable.db_url_katalon_sql_demo, GlobalVariable.db_username, GlobalVariable.db_password)
 
@@ -108,6 +112,11 @@ public class CRUD_Operations_PostGre_DB {
 	}
 
 	def createTable() {
+
+		/*
+		 * Delete a Table If already exist in a DB
+		 * Create a New Table
+		 */
 
 		sleep(1000)
 
@@ -158,6 +167,10 @@ public class CRUD_Operations_PostGre_DB {
 
 	def addDataInTable() {
 
+		/*
+		 * Add Data into Created Table		 
+		 */
+
 		sleep(1000)
 
 		println('\n' + addDataIntoTable_Query)
@@ -170,6 +183,10 @@ public class CRUD_Operations_PostGre_DB {
 	}
 
 	def readTable() {
+
+		/*
+		 * Read All Table Data 
+		 */
 
 		sleep(1000)
 
@@ -195,6 +212,10 @@ public class CRUD_Operations_PostGre_DB {
 
 	def updateTable() {
 
+		/*
+		 * Update a Table Data
+		 */
+
 		sleep(1000)
 
 		println('\n' + updateTable_Query)
@@ -207,6 +228,10 @@ public class CRUD_Operations_PostGre_DB {
 	}
 
 	def deleteDataFromTable() {
+
+		/*
+		 * Delete a Data of Table
+		 */
 
 		sleep(1000)
 

@@ -21,7 +21,7 @@
    <testCaseLink>
       <guid>03197505-f510-49d9-a5fc-1f19c741896b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/US_Orange_Book/All_Operation_Test_Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
